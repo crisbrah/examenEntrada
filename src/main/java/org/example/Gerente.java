@@ -1,7 +1,7 @@
 package org.example;
 import java.util.Scanner;
 
-public class Gerente extends Empleado implements IEvaluacionDesempeno{
+public class Gerente extends Empleado implements IEvaluacionDesempeno {
     private int equipo;
     private Double bono;
 
@@ -11,18 +11,17 @@ public class Gerente extends Empleado implements IEvaluacionDesempeno{
         this.equipo = equipo;
     }
 
-    public String evaluarDesempeno(){
-        if (equipo<=20)
-        {
+    //para calcular si es bueno el equipo tiene mas de 20, regular entre 2-19, si es malo menor que 4
+    public String evaluarDesempeno() {
+        if (equipo >= 20) {
             return "BUENO";
-        } else if (equipo<=10) {
+        } else if (equipo >= 2 && equipo <= 19) {
             return "REGULAR";
-
-        }
-        else {
+        } else {
             return "MALO";
         }
     }
+
 
     @Override
     public double calcularBono() {
@@ -32,9 +31,9 @@ public class Gerente extends Empleado implements IEvaluacionDesempeno{
         } else if (evaluarDesempeno() == "Regular") {
             bono = 0.5 * salario;
             return bono;
-        }
-        else{
+        } else {
             return 0;
         }
     }
+
 }

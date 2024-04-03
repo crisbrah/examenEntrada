@@ -14,11 +14,8 @@
       <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Desarrollador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Desarrollador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/EvaluacionDesempeno.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Gerente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/.gitignore" beforeDir="false" />
@@ -105,7 +102,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>19</line>
+          <line>41</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

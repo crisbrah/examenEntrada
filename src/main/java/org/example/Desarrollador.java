@@ -9,17 +9,14 @@ public class Desarrollador extends Empleado implements IEvaluacionDesempeno{
     }
 
     @Override
+    //para calcular si es bueno <20, regular de 5-19, si es malo menor que 4
     public String evaluarDesempeno(){
-        if (lenguajes<=20)
-        {
-            return "BUENO";
-        } else if (lenguajes<=10) {
-            return "REGULAR";
-
-        }
-        else {
-            return "MALO";
-        }
+        if (lenguajes>=20)
+        {  return "BUENO";}
+        else if (lenguajes>=5 && lenguajes<=19)
+        {  return "REGULAR";}
+        else
+        {   return "MALO";   }
     }
 
 
@@ -27,7 +24,8 @@ public class Desarrollador extends Empleado implements IEvaluacionDesempeno{
         if (evaluarDesempeno() == "BUENO") {
             bono = 1 * salario;
             return bono;
-        } else if (evaluarDesempeno() == "Regular") {
+        }
+        if (evaluarDesempeno() == "REGULAR") {
             bono = 0.5 * salario;
             return bono;
         }
@@ -35,6 +33,5 @@ public class Desarrollador extends Empleado implements IEvaluacionDesempeno{
             return 0;
         }
     }
-
 
 }
