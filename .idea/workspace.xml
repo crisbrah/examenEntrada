@@ -5,31 +5,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ac695f3-76ff-4762-9167-e058b8bc46c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAREA1/Jhoner_Perez/Jhoner_Perez.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/javaBDProf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaBDProf/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Desarrollador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Desarrollador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/EvaluacionDesempeno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/Jhoner_Perez.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/src/Preg01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/src/Preg02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/src/Preg03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/src/Preg04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/src/Preg05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/src/Preg06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhoner_Perez/src/Preg07.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2eYLFdTzxJ7c3skQl0xxwlKWi9v" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/User/Documents/DESARROLLO/ExamenEntrada02Abr2024/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/DESARROLLO/ExamenEntrada02Abr2024&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/Documents/DESARROLLO/ExamenEntrada02Abr2024/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +105,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
+          <line>19</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
